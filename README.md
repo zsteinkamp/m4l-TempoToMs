@@ -14,6 +14,7 @@ It will always show values for the current tempo, even if you change or automate
 
 ## Changelog
 
+* 2022-04-27 [0.0.2](https://github.com/zsteinkamp/m4l-TempoToMs/raw/main/frozen/TempoToMs-0.0.2.amxd) - Improved fonts and colors.
 * 2022-04-27 [0.0.1](https://github.com/zsteinkamp/m4l-TempoToMs/raw/main/frozen/TempoToMs-0.0.1.amxd) - Initial version.
 
 ## Usage
