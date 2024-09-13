@@ -10,10 +10,11 @@ It will always show values for the current tempo, even if you change or automate
 
 ## Installation
 
-[Download the newest .amxd file from the frozen/ directory](https://github.com/zsteinkamp/m4l-TempoToMs/tree/main/frozen/) or clone this repository, and drag the `TempoToMs.amxd` device into a track in Ableton Live.
+[Download the newest .amxd file from the latest Release](https://github.com/zsteinkamp/m4l-TempoToMs/releases) or clone this repository, and drag the `TempoToMs.amxd` device into a track in Ableton Live.
 
 ## Changelog
 
+* 2024-09-12 [v5](https://github.com/zsteinkamp/m4l-TempoToMs/releases/download/v5/TempoToMs-v5.amxd) - Now works as an Audio device to put in more track types. Make the UI a lot more compact.
 * 2022-05-04 [0.0.4](https://github.com/zsteinkamp/m4l-TempoToMs/raw/main/frozen/TempoToMs-0.0.4.amxd) - Fix initial state bug that required the tempo to be changed once.
 * 2022-04-28 [0.0.3](https://github.com/zsteinkamp/m4l-TempoToMs/raw/main/frozen/TempoToMs-0.0.3.amxd) - More color refinements; Move to vexpr for list-based calcs.
 * 2022-04-27 [0.0.2](https://github.com/zsteinkamp/m4l-TempoToMs/raw/main/frozen/TempoToMs-0.0.2.amxd) - Improved fonts and colors.
