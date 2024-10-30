@@ -14,6 +14,7 @@ It will always show values for the current tempo, even if you change or automate
 
 ## Changelog
 
+* 2024-10-29 [v6](https://github.com/zsteinkamp/m4l-TempoToMs/releases/download/v6/TempoToMs-v6.amxd) - Add non-blocking telemetry ping on load. Does not send any identifying information, only the plugin name, the local computer name, type of computer, and CPU type. I just want to see which plugins are used the most.
 * 2024-09-12 [v5](https://github.com/zsteinkamp/m4l-TempoToMs/releases/download/v5/TempoToMs-v5.amxd) - Now works as an Audio device to put in more track types. Make the UI a lot more compact.
 * 2022-05-04 [0.0.4](https://github.com/zsteinkamp/m4l-TempoToMs/raw/main/frozen/TempoToMs-0.0.4.amxd) - Fix initial state bug that required the tempo to be changed once.
 * 2022-04-28 [0.0.3](https://github.com/zsteinkamp/m4l-TempoToMs/raw/main/frozen/TempoToMs-0.0.3.amxd) - More color refinements; Move to vexpr for list-based calcs.
